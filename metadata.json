@@ -1,0 +1,6 @@
+{
+  "name": "Big Data Maturity Navigator",
+  "description": "AI-Powered Collaborative Learning for MBA/EMBA Teams to evaluate business process maturity via the Big Data Business Model Maturity Index.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
